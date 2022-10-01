@@ -1,0 +1,10 @@
+{
+    "a":1,
+    "b":"bbcc",
+    "k":true,
+    "oses":[
+        "windows",
+        "linux",
+        "MacOS"
+    ]
+}
